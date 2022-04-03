@@ -32,28 +32,39 @@
 People
 
 Physical Differences: Άτομα που μπορούν να δουν
+
 Psychological Differences: -
+
 Social Differences: Προσιτό προς όλα τα άτομα
+
 Cultural Differences: -
 
 Activities
 
 Temporal: μια φορά γιατί είναι καλλιτεχνικό έργο
+
 Cooperation: Άνθρωπος-Lilypad-ύφασμα-εικόνα-φως
+
 Complexity: -
+
 Safety-Critical: -
+
 The nature of the Content: Καλλιτεχνική φύση
 
 Contexts
 
 Physical: Η εγκατάσταση βρίσκεται σε εσωτερικό χώρο χαμηλού φωτισμού
+
 Social: Εκθεσιακός χώρος
+
 Organisational: Video installation, Lilypad
 
 Technologies
 
 Input: διακόπτης on/off που θα υπάρχει πάνω στου ρούχο
+
 Output: Βίντεο από την οθόνη και φως από τα LEDάκια του ρούχου
+
 Communication: Υπάρχει διάδραση μεταξύ των ανθρώπων η οποία 
 εκφράζεται μέσω του Lilypad (για να λειτουργήσει θα χρησιμοποιηθεί
 software)
