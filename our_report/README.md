@@ -72,9 +72,17 @@ software)
 
 # 2nd Deliverable
 
-
+INFORMATION ARCHITECHTURE
 ![information_architechture](https://user-images.githubusercontent.com/101419410/167389558-2b40cd7a-e090-45fe-bf99-4eb4fe77f872.png)
 
+USER INTERACTION
+
+Άτομα -"Ρούχο"- LilyPad - Κίνηση - Φως
+
+
+
+INTERFACE DESIGN
+![interface_design](https://user-images.githubusercontent.com/101419410/167390022-28378acf-73ee-412a-8f65-24a3119712e8.PNG)
 
 
 # 3rd Deliverable 
