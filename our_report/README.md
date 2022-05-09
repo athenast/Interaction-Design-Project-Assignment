@@ -73,6 +73,10 @@ software)
 # 2nd Deliverable
 
 
+![information_architechture](https://user-images.githubusercontent.com/101419410/167389558-2b40cd7a-e090-45fe-bf99-4eb4fe77f872.png)
+
+
+
 # 3rd Deliverable 
 
 
