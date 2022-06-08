@@ -32,31 +32,29 @@
 People
 -------------------------
 Physical Differences: Άτομα που μπορούν να δουν <br>
-Psychological Differences: -
-Social Differences: Προσιτό προς όλα τα άτομα
-Cultural Differences: -
+Psychological Differences: - <br>
+Social Differences: Προσιτό προς όλα τα άτομα <br>
+Cultural Differences: - <br>
 
 Activities
 -------------------------
-Temporal: μια φορά γιατί είναι καλλιτεχνικό έργο
-Cooperation: Άνθρωπος-Lilypad-ύφασμα-εικόνα-φως
-Complexity: -
-Safety-Critical: -
+Temporal: μια φορά γιατί είναι καλλιτεχνικό έργο <br>
+Cooperation: Άνθρωπος-Lilypad-ύφασμα-εικόνα-φως <br>
+Complexity: - <br>
+Safety-Critical: - <br>
 The nature of the Content: Καλλιτεχνική φύση
 
 Contexts
 -------------------------
-Physical: Η εγκατάσταση βρίσκεται σε εσωτερικό χώρο χαμηλού φωτισμού
-Social: Εκθεσιακός χώρος
+Physical: Η εγκατάσταση βρίσκεται σε εσωτερικό χώρο χαμηλού φωτισμού <br>
+Social: Εκθεσιακός χώρος <br>
 Organisational: Video installation, Lilypad
 
 Technologies
 -------------------------
-Input: διακόπτης on/off που θα υπάρχει πάνω στου ρούχο
-Output: Βίντεο από την οθόνη και φως από τα LEDάκια του ρούχου
-Communication: Υπάρχει διάδραση μεταξύ των ανθρώπων η οποία 
-εκφράζεται μέσω του Lilypad (για να λειτουργήσει θα χρησιμοποιηθεί
-software)
+Input: διακόπτης on/off που θα υπάρχει πάνω στου ρούχο <br>
+Output: Βίντεο από την οθόνη και φως από τα LEDάκια του ρούχου <br>
+Communication: Υπάρχει διάδραση μεταξύ των ανθρώπων η οποία εκφράζεται μέσω του Lilypad (για να λειτουργήσει θα χρησιμοποιηθεί software)
 
 
 # 2nd Deliverable
