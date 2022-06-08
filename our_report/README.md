@@ -2,7 +2,9 @@
 
 ### First and Last Name: Αθηνά Άννα Σταυρίδη - Δημήτρης Ιωάννης Καμπεράκης - Ευαγγελία Δόστογλου 
 ### University Registration Number: dpsd19122 - dpsd19044 - dpsd19032
-### GitHub Personal Profile: https://github.com/athenast https://github.com/dpsd19044 https://github.com/evadost
+### GitHub Personal Profile: <a href="https://github.com/athenast ">athenast</a> 
+<a href="https://github.com/dpsd19044">dpsd19044</a> 
+<a href="https://github.com/evadost">evadost</a>   
 
 # Introduction
 
@@ -61,7 +63,7 @@ Communication: Υπάρχει διάδραση μεταξύ των ανθρώπ�
 # 2nd Deliverable
 
 INFORMATION ARCHITECHTURE
-
+-------------------------
 ![information_architechture](https://user-images.githubusercontent.com/101419410/167389558-2b40cd7a-e090-45fe-bf99-4eb4fe77f872.png)
 
 
