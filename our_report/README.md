@@ -31,7 +31,7 @@
 
 People
 -------------------------
-Physical Differences: Άτομα που μπορούν να δουν
+Physical Differences: Άτομα που μπορούν να δουν <br>
 Psychological Differences: -
 Social Differences: Προσιτό προς όλα τα άτομα
 Cultural Differences: -
