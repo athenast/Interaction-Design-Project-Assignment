@@ -2,9 +2,7 @@
 
 ### First and Last Name: Αθηνά Άννα Σταυρίδη - Δημήτρης Ιωάννης Καμπεράκης - Ευαγγελία Δόστογλου 
 ### University Registration Number: dpsd19122 - dpsd19044 - dpsd19032
-### GitHub Personal Profile: <a href="https://github.com/athenast ">athenast</a> 
-<a href="https://github.com/dpsd19044">dpsd19044</a> 
-<a href="https://github.com/evadost">evadost</a>   
+### GitHub Personal Profile: <a href="https://github.com/athenast ">athenast</a> <a href="https://github.com/dpsd19044">dpsd19044</a> <a href="https://github.com/evadost">evadost</a>   
 
 # Introduction
 
@@ -134,6 +132,10 @@ SCENARIO
 Μαθαινει για ενα performance το οποίο εστιάζει στο θέμα του. 
 Αποφασίζει να το παρακολουθήσει για να το ενταξει στην ερευνα του.
 Το περφορμανς αυτό συνδιάζει την τεχνη και την τεχνολογια για να αφηγηθεί με εναν συμβολικο τροπο την επανασυνδεση δυο ατομων.
+  
+
+STORYBOARD
+-------------------------
 
 
 
