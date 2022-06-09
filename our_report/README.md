@@ -152,7 +152,63 @@ https://user-images.githubusercontent.com/101419410/172925149-dd23a641-8268-40d4
 
 
 
+Κώδικας
+-------------------------
+const int LAccel = 1;                  // Accelerometer's Y axis is anolog pin 1 on Arduino
+
+int yLAccel = 0;
+int armTime = 50;
+
+//For left arm blasters
+int ledL1 = 5;
+int ledL2 = 6;
+int ledL3 = 2;
+int ledL4 = 1;
+int ledL5 = 0;
+
+void setup() {
+  pinMode(LAccel, INPUT);  // Sets analog pin 1 to input for left accelerometer.
+  
+  pinMode(ledL1, OUTPUT); 
+  pinMode(ledL2, OUTPUT);
+  pinMode(ledL3, OUTPUT);
+  pinMode(ledL4, OUTPUT);
+  pinMode(ledL5, OUTPUT);
+}
+
+void loop() {
+  //read accelerometer values from L&R arms
+  int yLAccel=analogRead(LAccel);
+
+  // left arm death ray
+  if (yLAccel > 250)
+  { 
+    digitalWrite(ledL5, HIGH);
+    delay(armTime);            
+    digitalWrite(ledL4, HIGH);
+    delay(armTime);            
+    digitalWrite(ledL3, HIGH);
+    delay(armTime); 
+    digitalWrite(ledL2, HIGH);
+    delay(armTime);  
+    digitalWrite(ledL1, HIGH);
+   delay(armTime);          
+    digitalWrite(ledL1, LOW);
+    digitalWrite(ledL2, LOW);
+    digitalWrite(ledL3, LOW);
+    digitalWrite(ledL4, LOW);
+    digitalWrite(ledL5, LOW);
+    delay(50);
+  } 
+
+}
+
 # Conclusions
 
 
 # Sources
+<a href="https://github.com/sp8rks/ArduinoDeathStarChristmasSweater/blob/master/DeathStarSweater.ino"> Βοηθητικός κώδικας</a> <br>
+<a href="https://www.youtube.com/watch?v=u8_jsUgsWyo&t=546s"> Βίντεο επιρροής</a> <br>
+<a href="https://www.youtube.com/watch?v=2HOF0zKKSG0"> lilypad sewing tutorial </a>
+
+
