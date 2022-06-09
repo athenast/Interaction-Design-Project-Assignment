@@ -138,6 +138,17 @@ STORYBOARD
 -------------------------
 ![storyboard](https://user-images.githubusercontent.com/101419410/172604667-72b3823b-b77b-46de-9db8-1196e30cb532.png)
 
+ΦΩΤΟΓΤΑΦΙΑ ΚΥΚΛΩΜΑΤΟΣ
+-------------------------
+
+
+![IMG_E5186](https://user-images.githubusercontent.com/101419410/172923787-41d6e125-c738-483a-925f-6b0eded8eb73.JPG)
+
+ΒΙΝΤΕΟ ΛΕΙΤΟΥΡΓΙΑΣ ΚΥΚΛΩΜΑΤΟΣ
+-------------------------
+
+
+https://user-images.githubusercontent.com/101419410/172925149-dd23a641-8268-40d4-92b2-e87282f74a3f.mp4
 
 
 
