@@ -154,54 +154,62 @@ https://user-images.githubusercontent.com/101419410/172925149-dd23a641-8268-40d4
 
 Κώδικας
 -------------------------
-const int LAccel = 1;                  // Accelerometer's Y axis is anolog pin 1 on Arduino
+const int LAccel = 1;                  // Accelerometer's Y axis is anolog pin 1 on Arduino <br>
 
-int yLAccel = 0;
-int armTime = 50;
 
-//For left arm blasters
-int ledL1 = 5;
-int ledL2 = 6;
-int ledL3 = 2;
-int ledL4 = 1;
-int ledL5 = 0;
+int yLAccel = 0; <br>
+int armTime = 50; <br>
 
-void setup() {
-  pinMode(LAccel, INPUT);  // Sets analog pin 1 to input for left accelerometer.
+
+//For left arm blasters <br>
+int ledL1 = 5; <br>
+int ledL2 = 6; <br>
+int ledL3 = 2; <br>
+int ledL4 = 1; <br>
+int ledL5 = 0; <br>
+
+
+void setup() <br> 
+{ <br>
+  pinMode(LAccel, INPUT);  // Sets analog pin 1 to input for left accelerometer. <br>
   
-  pinMode(ledL1, OUTPUT); 
-  pinMode(ledL2, OUTPUT);
-  pinMode(ledL3, OUTPUT);
-  pinMode(ledL4, OUTPUT);
-  pinMode(ledL5, OUTPUT);
-}
+  
+  pinMode(ledL1, OUTPUT);  <br>
+  pinMode(ledL2, OUTPUT); <br>
+  pinMode(ledL3, OUTPUT); <br>
+  pinMode(ledL4, OUTPUT); <br>
+  pinMode(ledL5, OUTPUT); <br>
+} <br>
 
-void loop() {
-  //read accelerometer values from L&R arms
-  int yLAccel=analogRead(LAccel);
 
-  // left arm death ray
-  if (yLAccel > 250)
-  { 
-    digitalWrite(ledL5, HIGH);
-    delay(armTime);            
-    digitalWrite(ledL4, HIGH);
-    delay(armTime);            
-    digitalWrite(ledL3, HIGH);
-    delay(armTime); 
-    digitalWrite(ledL2, HIGH);
-    delay(armTime);  
-    digitalWrite(ledL1, HIGH);
-   delay(armTime);          
-    digitalWrite(ledL1, LOW);
-    digitalWrite(ledL2, LOW);
-    digitalWrite(ledL3, LOW);
-    digitalWrite(ledL4, LOW);
-    digitalWrite(ledL5, LOW);
-    delay(50);
-  } 
+void loop() <br> 
+{ <br>
+  //read accelerometer values from arm <br>
+  int yLAccel=analogRead(LAccel); <br>
 
-}
+
+  // left arm ray <br>
+  if (yLAccel > 250) <br>
+  {  <br>
+    digitalWrite(ledL5, HIGH); <br>
+    delay(armTime);             <br>
+    digitalWrite(ledL4, HIGH); <br>
+    delay(armTime);             <br>
+    digitalWrite(ledL3, HIGH); <br>
+    delay(armTime);  <br>
+    digitalWrite(ledL2, HIGH); <br>
+    delay(armTime);   <br>
+    digitalWrite(ledL1, HIGH); <br>
+   delay(armTime);           <br>
+    digitalWrite(ledL1, LOW); <br>
+    digitalWrite(ledL2, LOW); <br>
+    digitalWrite(ledL3, LOW); <br>
+    digitalWrite(ledL4, LOW); <br>
+    digitalWrite(ledL5, LOW); <br>
+    delay(50); <br>
+  }  <br>
+ <br>
+} <br>
 
 # Conclusions
 
