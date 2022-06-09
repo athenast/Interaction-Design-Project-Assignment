@@ -221,6 +221,10 @@ void loop() <br>
 
 https://user-images.githubusercontent.com/101419410/172941650-7e946a6b-1d7e-486e-b3c4-c9e3eeff9788.MOV
 
+Ένδειξη Performance ...
+-------------------------
+
+![sth](https://user-images.githubusercontent.com/101419410/172949856-5b24e261-81fc-473d-a63b-a4df78b9b13c.png)
 
 
 # Conclusions
